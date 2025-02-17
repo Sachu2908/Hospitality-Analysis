@@ -29,3 +29,7 @@ In this project, I acted as the service provider, utilizing Power BI to perform 
 - **Industry Terminology:** Familiarized with terms such as ADR (Average Daily Rate), DSRN (Daily Sales Report Number), DBRN (Daily Booking Report Number), RevPAR, and other hospitality-related metrics.
 
 Crafting these views required a blend of analytical prowess and creativity, resulting in valuable insights and recommendations.
+
+## Final dashboard View
+https://github.com/Sachu2908/Hospitality-Analysis/blob/main/Hospitality%20domain.pdf
+
